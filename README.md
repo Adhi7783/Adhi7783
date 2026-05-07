@@ -46,7 +46,7 @@
 | 👁️ [Real-Time Face Detection](https://github.com/Adhi7783/face-detection) | Real-time face detection pipeline with OpenCV Haar cascades | Python, OpenCV |
 | 📈 [Crypto Portfolio Tracker](https://github.com/Adhi7783/crypto-tracker) | CLI portfolio tracker with live CoinMarketCap data + SQLite storage | Python, SQLite, pandas |
 
-> 🔗 Replace `#` links above with your actual repo URLs once uploaded
+>
 
 ---
 
