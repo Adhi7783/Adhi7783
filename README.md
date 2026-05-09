@@ -1,4 +1,4 @@
-# Hey, I'm Adhitya 👋
+# Hey, I'm Adhitya 
 
 **CS @ University of Washington Bothell** · Building things at the intersection of AI, full-stack, and systems
 
