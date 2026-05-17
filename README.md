@@ -5,6 +5,7 @@
 ---
 
 ### 🔭 What I'm working on
+- Built **BridgeLearn** — an offline Socratic tutoring system powered by Gemma 4 E4B via Ollama, submitted to the Kaggle Gemma 4 Good Hackathon 
 - Running **local LLMs** on consumer hardware — deployed a 4-bit quantized Gemma 4 model with full GPU offloading on a GTX 1050 Ti using WSL2 + Ollama
 - Looking for **Summer 2026 internships** in software engineering / AI / ML
 
@@ -43,6 +44,7 @@
 |---|---|---|
 | ⚡ [CUDA Matrix Multiplier](https://github.com/Adhi7783/CUDA_Matrix_Multiplication) | 3 progressively optimized GPU kernels — naive → tiled → register-blocked — benchmarked vs cuBLAS | CUDA, C++, Python |
 | 🤖 [Local AI Ecosystem](https://github.com/Adhi7783/Local-AI-Ecosystem.git) | Deployed a quantized LLM locally with GPU offloading + Streamlit UI + Discord bot | Python, Ollama, WSL2, Streamlit |
+| 🌉 [BridgeLearn](https://github.com/Adhi7783/BridgeLearn) | Offline Socratic tutor — Gemma 4 E4B via Ollama, adapts to student level in real time. Built for Kaggle Gemma 4 Good Hackathon | Node.js, React, Ollama, SQLite |
 | 🧠 [Talk2A](https://github.com/Adhi7783/Talk2A) | Full-stack mental health web app built in 24hrs at UWB Hackathon | React, Next.js, Firebase |
 | 📧 [Spam Email Classifier](https://github.com/Adhi7783/spam-email-classifier) | ML classifier with 95% accuracy using TF-IDF + logistic regression | Python, scikit-learn, pandas |
 | 👁️ [Real-Time Face Detection](https://github.com/Adhi7783/face-detection) | Real-time face detection pipeline with OpenCV Haar cascades | Python, OpenCV |
