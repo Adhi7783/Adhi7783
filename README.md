@@ -8,7 +8,7 @@ I'm a computer science student at the University of Washington Bothell. I build 
 
 ### [Nightwatch](https://github.com/Adhi7783/Nightwatch)
 
-A cooperative detective game for one or two players. The evidence board syncs between players in a private room, saves their progress, and protects their edits from conflicts. The server validates conclusions against an authored mystery.
+A cooperative detective game built with Deepspace for one or two players. The evidence board syncs between players in a private room, saves their progress, and protects their edits from conflicts. The server validates conclusions against an authored mystery.
 
 React, TypeScript, DeepSpace, Cloudflare Workers
 
