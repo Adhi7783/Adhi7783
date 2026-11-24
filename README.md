@@ -1,67 +1,31 @@
-# Hey, I'm Adhitya 
+# Adhitya
 
-**CS @ University of Washington Bothell** · Building things at the intersection of AI, full-stack, and systems
+I'm a computer science student at the University of Washington Bothell. I build real-time web apps, AI tools, and GPU computing projects.
 
----
+[LinkedIn](https://linkedin.com/in/adhi7783) · [Email](mailto:adhitya405@outlook.com)
 
-### 🔭 What I'm working on
-- Built **BridgeLearn** — an offline Socratic tutoring system powered by Gemma 4 E4B via Ollama, submitted to the Kaggle Gemma 4 Good Hackathon 
-- Running **local LLMs** on consumer hardware — deployed a 4-bit quantized Gemma 4 model with full GPU offloading on a GTX 1050 Ti using WSL2 + Ollama
-- Looking for **Summer 2026 internships** in software engineering / AI / ML
+## Selected projects
 
-### 🌱 What I'm exploring
-- AI/ML systems & LLM deployment
-- Full-stack development (React, Flask, Firebase)
-- Systems programming (C++, low-level optimization)
-- DevOps & cloud (Docker, Linux, WSL2)
+### [Nightwatch](https://github.com/Adhi7783/Nightwatch)
 
----
+A cooperative detective game for one or two players. The evidence board syncs between players in a private room, saves their progress, and protects their edits from conflicts. The server validates conclusions against an authored mystery.
 
-### 🛠️ Tech I work with
+React, TypeScript, DeepSpace, Cloudflare Workers
 
-**Languages**
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### [Expense Detective](https://github.com/Adhi7783/Expense-Detective-Kaggle-Capstone)
 
-**Frameworks & Tools**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
+A Kaggle capstone that uses four specialist agents to audit expense reports. It checks policy compliance, flags anomalies for human review, and records the reasoning behind each recommendation.
 
----
+Python, Gemini, MCP
 
-### 🚀 Featured Projects
+### [CUDA Matrix Multiplication](https://github.com/Adhi7783/CUDA_Matrix_Multiplication)
 
-| Project | What it does | Stack |
-|---|---|---|
-| ⚡ [CUDA Matrix Multiplier](https://github.com/Adhi7783/CUDA_Matrix_Multiplication) | 3 progressively optimized GPU kernels — naive → tiled → register-blocked — benchmarked vs cuBLAS | CUDA, C++, Python |
-| 🤖 [Local AI Ecosystem](https://github.com/Adhi7783/Local-AI-Ecosystem.git) | Deployed a quantized LLM locally with GPU offloading + Streamlit UI + Discord bot | Python, Ollama, WSL2, Streamlit |
-| 🌉 [BridgeLearn](https://github.com/Adhi7783/BridgeLearn) | Offline Socratic tutor — Gemma 4 E4B via Ollama, adapts to student level in real time. Built for Kaggle Gemma 4 Good Hackathon | Node.js, React, Ollama, SQLite |
-| 🧠 [Talk2A](https://github.com/Adhi7783/Talk2A) | Full-stack mental health web app built in 24hrs at UWB Hackathon | React, Next.js, Firebase |
-| 📧 [Spam Email Classifier](https://github.com/Adhi7783/spam-email-classifier) | ML classifier with 95% accuracy using TF-IDF + logistic regression | Python, scikit-learn, pandas |
-| 👁️ [Real-Time Face Detection](https://github.com/Adhi7783/face-detection) | Real-time face detection pipeline with OpenCV Haar cascades | Python, OpenCV |
-| 📈 [Crypto Portfolio Tracker](https://github.com/Adhi7783/crypto-tracker) | CLI portfolio tracker with live CoinMarketCap data + SQLite storage | Python, SQLite, pandas |
+Benchmarks three GPU kernels against CPU and cuBLAS baselines. The implementations progress from a naive kernel to shared-memory tiling and register blocking.
 
->
+CUDA, C++, cuBLAS
 
----
+### [BridgeLearn](https://github.com/Adhi7783/BridgeLearn)
 
-### 📫 Let's connect
+An offline-first Socratic tutor built for the Gemma 4 Good Hackathon. It runs a 4-bit Gemma 4 E2B model locally through Ollama and stores classroom session data in SQLite.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adhi7783)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adhitya405@outlook.com)
-
----
-
-### ⚡ Fun fact
-
-I once taught Sanskrit to 15+ students and also placed 3rd at a robotics regional — somehow both of those skills ended up being useful in software engineering (patience and systematic debugging, respectively 😄)
-
+React, Node.js, Ollama, SQLite
